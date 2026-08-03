@@ -13,14 +13,14 @@ Download: https://brave.com/
 Category: Prohlížeče
 Developer: Brave Software
 
-Name: Brave Browserr
+Name: Chroome
 Description: Rychlý a bezpečný webový prohlížeč.
 Icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
 Download: https://brave.com/
 Category: Prohlížeče
 Developer: Brave Software
 
-Name: Brave Browserrr
+Name: Samsungr
 Description: Rychlý a bezpečný webový prohlížeč.
 Icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
 Download: https://brave.com/
