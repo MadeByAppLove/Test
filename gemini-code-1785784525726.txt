@@ -1,0 +1,34 @@
+Categories:
+Prohlížeče
+Hry
+Office
+Média
+
+Apps:
+Name: Brave Browser
+Description: Rychlý a bezpečný webový prohlížeč.
+Icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
+Download: https://brave.com/
+Category: Prohlížeče
+Developer: Brave Software
+
+Name: Minecraft
+Description: Legendární kostičkovaná hra.
+Icon: 
+Download: https://www.minecraft.net/
+Category: Hry
+Developer: Mojang Studios
+
+Name: LibreOffice
+Description: Skvělá zdarma alternativa k MS Office.
+Icon: 
+Download: https://www.libreoffice.org/
+Category: Office
+Developer: The Document Foundation
+
+Name: VLC Media Player
+Description: Univerzální přehrávač médií.
+Icon: 
+Download: https://www.videolan.org/vlc/
+Category: Média
+Developer: VideoLAN
