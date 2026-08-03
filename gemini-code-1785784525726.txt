@@ -13,6 +13,20 @@ Download: https://brave.com/
 Category: Prohlížeče
 Developer: Brave Software
 
+Name: Brave Browser
+Description: Rychlý a bezpečný webový prohlížeč.
+Icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
+Download: https://brave.com/
+Category: Prohlížeče
+Developer: Brave Software
+
+Name: Brave Browser
+Description: Rychlý a bezpečný webový prohlížeč.
+Icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
+Download: https://brave.com/
+Category: Prohlížeče
+Developer: Brave Software
+
 Name: Minecraft
 Description: Legendární kostičkovaná hra.
 Icon: 
