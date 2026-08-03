@@ -3,6 +3,7 @@ Prohlížeče
 Hry
 Office
 Média
+Rodina
 
 Apps:
 Name: Brave Browser
@@ -32,3 +33,10 @@ Icon:
 Download: https://www.videolan.org/vlc/
 Category: Média
 Developer: VideoLAN
+
+Name: YouTube Kids
+Description: YouTube ale pro děti.
+Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ84zuWLbc9uU4s2CrRiqc4Wz5aeYWP80nmsoZuj_4g5xK3ItoYbRnfHvk&s=10
+Download: https://www.youtubekids.com/
+Category: Rodina
+Developer: Google LLC
