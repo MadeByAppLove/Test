@@ -54,3 +54,10 @@ Icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ84zuWLbc9uU4s2CrRiq
 Download: https://www.youtubekids.com/
 Category: Rodina
 Developer: Google LLC
+
+Name: Samsungr
+Description: Rychlý a bezpečný webový prohlížeč.
+Icon: https://brave.com/static-assets/images/brave-logo-sans-text.svg
+Download: https://brave.com/
+Category: Prohlížeče
+Developer: Brave Software
